@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c9bd299-8627-499f-9730-a1bf6153e30e" name="phpMVC.vdorin.com" url="http://vdorin.com">
+        <fileTransfer host="vdorin.com" port="21" rootFolder="/public_html/phpMVC">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
